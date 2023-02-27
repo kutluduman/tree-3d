@@ -1,6 +1,7 @@
 # Documentation:
 
- - https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+ - Three JS: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
+ - React Three Fiber: https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
  - GLTF converter: https://gltf.pmnd.rs/ 
 
 
